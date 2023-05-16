@@ -1,0 +1,33 @@
+Bookmarks:
+  - Services:
+      - Standard Ebooks: https://standardebooks.org/
+      - TypeLit: https://www.typelit.io/
+      - lofi.cafe: https://lofi.cafe/
+  - Blogs:
+      - aliquote: https://aliquote.org/about/
+      - Yann Ollivier: http://www.yann-ollivier.org/
+      - "Bartosz Ciechanowski": https://ciechanow.ski/
+  - Tools:
+      - Rclone: https://rclone.org/
+  - Events:
+      - Inverse Problems [NIPS, 2019-21]: https://deep-inverse.org/
+      - Information Geometry [NIPS, 2020]: https://sites.google.com/view/dl-info-neurips20
+      - GK Method [CECAM 2020]: https://www.cecam.org/workshop-details/66
+  - Videos:
+      - "Eulerian & Lagrangian [19xx]": https://www.youtube.com/watch?v=mdN8OOkx2ko
+      - "Lecture [Hackbusch, 1998]": |
+          https://www.facebook.com/ICM2018/videos/hackbuschs-plenary-lecture-icm-1998-berlin-germany/1042192329272071/
+      - "Deep Belief Nets [Hinton, 2012]": https://www.youtube.com/watch?v=GJdWESd543Y
+      - "Deep Generative [Noé 2019]": https://www.youtube.com/watch?v=XhAP2VNPVhg
+  - Math:
+      - Math Jargon: http://jeff560.tripod.com/mathword.html
+      - Tensor Fields: https://algebrology.github.io/vector-covector-and-tensor-fields/
+  - Chemistry:
+      - IUPAC: https://goldbook.iupac.org/terms/view/O04351
+      - Representations: http://mariovalle.name/ChemViz/representations/
+  - Code:
+      - ndarray: https://docs.scipy.org/doc/numpy-1.15.0/user/basics.subclassing.html
+  - MyDocs:
+      - PiNNAcLe: https://yqshao.github.io/pinnacle/
+      - TIPS: https://yqshao.github.io/tips/
+      - mkdocs-flux: https://yqshao.github.io/mkdocs-flux/
